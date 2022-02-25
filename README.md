@@ -1,2 +1,4 @@
-"# Car_Rate_Prediction" 
-"# Car_Rate_Prediction" 
+It is Car price prediction by using machine learning 
+
+# data Collection
+Collected dataset from kaggle 
